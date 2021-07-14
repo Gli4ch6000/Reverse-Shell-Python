@@ -9,3 +9,7 @@ MANY OUT THERE DON'T KNOW WHAT IS REVERSE SHELL:::
 
 
 ANS: A reverse shell is a shell session established on a connection that is initiated from a remote machine, not from the attacker's host. A reverse shell is a shell session established on a connection that is initiated from a remote machine, not from the local host
+
+
+
+THIS IS ONLY FOR EDUCATIONAL USE . DO NOT "FUCKIN " HACK ANYONE WITHOUT THERE PERMISSION
